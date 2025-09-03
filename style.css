@@ -1,0 +1,58 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+    color: #000;
+}
+
+h1 {
+    font-size: 45px;
+    line-height: 1;
+}
+h2 {
+    font-size: 32px;
+    line-height: 1.1;
+}
+h3 {
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.legenda {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+}
+a.compra {
+    color: #c44105;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline double;
+}
+
+li {
+    color: #035276;
+    font-style: italic;
+}
+
+h1 .destaque {
+    color: #0588c4;
+}
+.preco {
+    color: #0588c4;
+}
+.condicoes {
+    color: #0588c4;
+}
+.condicoes.sublinhado {
+    text-decoration: underline;
+}
+.interacao:hover{
+    font-size: 25px;
+
+}
